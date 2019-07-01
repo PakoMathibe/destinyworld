@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "destinyworld7",
-    "currentPage": "contact.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1182,7 +1182,7 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "About Destiny World Industries",
         "title": "about us",
         "order": 1
       },
@@ -1937,7 +1937,7 @@
     },
     "services.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "Destiny World services and products ",
         "title": "services",
         "order": 2
       },
@@ -2685,7 +2685,7 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "Contact Destiny World Industries",
         "title": "contact us",
         "order": 5
       },
