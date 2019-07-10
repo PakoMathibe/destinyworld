@@ -1595,125 +1595,98 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
-.cid-ruX3GtdneT {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/videoblocks-mine-workers-working-on-pipe-in-mine-quarry-r-gc7x3xo7-thumbnail-full01-1920x1080.png");
-}
-.cid-ruX7B0A9bT {
+.cid-rvP3O1xOEP {
   padding-top: 90px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-ruX7B0A9bT h2 {
-  text-align: center;
-}
-.cid-ruX7B0A9bT h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-ruX7B0A9bT p {
+.cid-rvP3O1xOEP .mbr-section-subtitle {
   color: #767676;
 }
-.cid-ruX7B0A9bT img {
-  object-fit: cover;
+.cid-rvP3O1xOEP .mbr-text {
+  color: #767676;
+  text-align: center;
 }
-.cid-ruX7B0A9bT .block-content {
+.cid-rvP3O1xOEP .card {
+  display: -webkit-flex;
+  position: relative;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rvP3O1xOEP .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rvP3O1xOEP .card-wrapper .card-img {
   display: -webkit-flex;
   flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-ruX7B0A9bT .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-ruX7B0A9bT .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-ruX7B0A9bT .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-ruX7B0A9bT .card-title {
-  font-weight: 500;
-}
-.cid-ruX7B0A9bT .card-img {
-  text-align: inherit;
-}
-.cid-ruX7B0A9bT .card-img span {
-  font-size: 48px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-ruX7B0A9bT .mbr-figure {
-    padding-right: 2rem;
-    padding-left: 2rem;
-    height: 100%;
-  }
-}
-@media (max-width: 991px) {
-  .cid-ruX7B0A9bT .mbr-figure {
-    padding-bottom: 2rem;
-    padding-top: 1rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-ruX7B0A9bT .block-content {
-    flex-direction: row;
-    -webkit-flex-direction: row;
-    text-align: center;
-  }
-  .cid-ruX7B0A9bT .block-content .card {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-  }
-}
-.cid-ruX7B0A9bT .mbr-section-title {
-  color: #465052;
-}
-.cid-ruXETOBwd6 {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-ruWCLPFHP1 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-ruWCLPFHP1 .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-ruWCLPFHP1 .mbr-content-text {
-  color: #767676;
-}
-.cid-ruWCLPFHP1 .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-ruWCLPFHP1 .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
+  align-items: center;
   justify-content: center;
-  word-break: break-word;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  -webkit-flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
 }
-@media (max-width: 767px) {
-  .cid-ruWCLPFHP1 .card:not(.last-child) {
-    padding-bottom: 1.5rem;
-  }
+.cid-rvP3O1xOEP .card-wrapper .card-img .mbr-overlay {
+  background-color: #efefef;
+  display: none;
+  transition: opacity .3s;
 }
-.cid-ruWCLPFHP1 .img-text {
-  color: #061a76;
+.cid-rvP3O1xOEP .card-wrapper .card-img .mbr-section-btn {
+  display: flex;
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  margin: auto;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
+}
+.cid-rvP3O1xOEP .card-wrapper .card-img img {
+  width: 100%;
+}
+.cid-rvP3O1xOEP .card-wrapper .card-box {
+  background-color: #ffffff;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-rvP3O1xOEP .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-rvP3O1xOEP .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-rvP3O1xOEP .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rvP3O1xOEP .popup-btn .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-rvP3O1xOEP .popup-btn .mbr-section-btn {
+  height: 100%;
+  display: -webkit-flex !important;
+  opacity: 0;
+}
+.cid-rvP3O1xOEP .popup-btn:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-rvP3O1xOEP .popup-btn:hover .mbr-section-btn {
+  opacity: 1;
+}
+.cid-rvP3O1xOEP .card-title {
+  text-align: center;
 }
 .cid-ruX3nG3JaL {
   padding-top: 90px;
@@ -2248,7 +2221,7 @@ body {
   }
 }
 .cid-ruWWfnq53s H1 {
-  color: #465052;
+  color: #21438a;
 }
 .cid-ruWWfnq53s .mbr-text,
 .cid-ruWWfnq53s .mbr-section-btn {
@@ -2272,52 +2245,123 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
-.cid-ruWZqSBYk3 {
+.cid-rvOZfGeyEV {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-ruWZqSBYk3 .mbr-section-subtitle {
+.cid-rvOZfGeyEV h2 {
+  text-align: center;
+}
+.cid-rvOZfGeyEV h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rvOZfGeyEV p {
   color: #767676;
 }
-.cid-ruWZqSBYk3 .media-row {
+.cid-rvOZfGeyEV img {
+  object-fit: cover;
+}
+.cid-rvOZfGeyEV .block-content {
   display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
 }
-.cid-ruWZqSBYk3 .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
+.cid-rvOZfGeyEV .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
 }
-.cid-ruWZqSBYk3 .team-item .item-image img {
-  width: 100%;
+.cid-rvOZfGeyEV .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
 }
-.cid-ruWZqSBYk3 .team-item .item-name p {
-  margin-bottom: 0;
+.cid-rvOZfGeyEV .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-ruWZqSBYk3 .team-item .item-role p {
-  margin-bottom: 0;
+.cid-rvOZfGeyEV .card-title {
+  font-weight: 500;
 }
-.cid-ruWZqSBYk3 .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
+.cid-rvOZfGeyEV .card-img {
+  text-align: inherit;
+}
+.cid-rvOZfGeyEV .card-img span {
+  font-size: 48px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rvOZfGeyEV .mbr-figure {
+    padding-right: 2rem;
+    padding-left: 2rem;
+    height: 100%;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rvOZfGeyEV .mbr-figure {
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rvOZfGeyEV .block-content {
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    text-align: center;
+  }
+  .cid-rvOZfGeyEV .block-content .card {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+  }
+  .cid-rvOZfGeyEV .card:nth-child(1) {
+    padding-bottom: 0!important;
+  }
+}
+.cid-rvOZfGeyEV .mbr-crt-title {
+  color: #21438a;
+}
+.cid-rvP0muckzg {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/videoblocks-mine-workers-working-on-pipe-in-mine-quarry-r-gc7x3xo7-thumbnail-full01-1920x1080.png");
+}
+.cid-rvP0rvIRdv {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rvP0rvIRdv .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rvP0rvIRdv .mbr-content-text {
+  color: #767676;
+}
+.cid-rvP0rvIRdv .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rvP0rvIRdv .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
   -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
   -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
 }
-.cid-ruWZqSBYk3 .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
+@media (max-width: 767px) {
+  .cid-rvP0rvIRdv .card:not(.last-child) {
+    padding-bottom: 1.5rem;
+  }
 }
-.cid-ruWZqSBYk3 .team-item .item-caption {
-  background: #21438a;
-}
-.cid-ruWZqSBYk3 .item-role P {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-ruWZqSBYk3 .item-name {
-  color: #ffffff;
+.cid-rvP0rvIRdv .img-text {
+  color: #061a76;
 }
 .cid-ruXuYagcw6 {
   padding-top: 90px;
@@ -2822,8 +2866,56 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/open-pit-mining-banner-1402x500.jpg");
 }
-.cid-ruXGkhRfvo {
+.cid-ruXG4JlA2M {
   padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ruXG4JlA2M .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ruXFZOhllg {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ruXFZOhllg .card-img {
+  background-color: #fff;
+}
+.cid-ruXFZOhllg .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-ruXFZOhllg h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-ruXFZOhllg p {
+  text-align: left;
+}
+.cid-ruXFZOhllg .mbr-text {
+  color: #767676;
+}
+.cid-ruXFZOhllg .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-ruXFZOhllg .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-ruXFZOhllg .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-ruXGkhRfvo {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -2870,53 +2962,8 @@ body {
     -webkit-flex: 0 0 20%;
   }
 }
-.cid-ruXG4JlA2M {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-ruXG4JlA2M .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-ruXFZOhllg {
-  padding-top: 30px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-ruXFZOhllg .card-img {
-  background-color: #fff;
-}
-.cid-ruXFZOhllg .card-box {
-  padding: 2rem;
-  background-color: #ffffff;
-}
-.cid-ruXFZOhllg h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-ruXFZOhllg p {
-  text-align: left;
-}
-.cid-ruXFZOhllg .mbr-text {
-  color: #767676;
-}
-.cid-ruXFZOhllg .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-ruXFZOhllg .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-ruXFZOhllg .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
+.cid-ruXFmJbDQQ .card-title {
+  text-align: center;
 }
 .cid-ruXv9mdV6p {
   padding-top: 90px;
